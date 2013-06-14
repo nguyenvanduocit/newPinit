@@ -1,0 +1,38 @@
+{
+   "defaultTitle": {
+      "description": "Default title to display",
+      "message": "New Pinterest button"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Hỗ trợ pin nhanh ảnh từ mọi website nhưng lại hiển thị nguồn từ chính website của bạn, thật xấu tính."
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "New Pinterest button"
+   },
+   "off": {
+      "description": "",
+      "message": "Tắt"
+   },
+   "on": {
+      "description": "",
+      "message": "Mở"
+   },
+   "optionsTitle": {
+      "description": "header for options page",
+      "message": "Cài đặt"
+   },
+   "saveButton": {
+      "description": "Save button text",
+      "message": "Lưu"
+   },
+   "savedMsg": {
+      "description": "Message to display while saving",
+      "message": "Đang lưu thay đổi..."
+   },
+   "strDefaultURL": {
+      "description": "Option text",
+      "message": "Nguồn ảnh, Bỏ trống để tắt chức năng."
+   }
+}
